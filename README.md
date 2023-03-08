@@ -31,7 +31,7 @@
 
 24 hours
 
-### deleloper
+### Developer
 
 - Name: Kalle Williams
 - Email: sirius.a015@gmail.com
