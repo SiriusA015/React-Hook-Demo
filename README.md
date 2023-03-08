@@ -33,6 +33,6 @@
 
 ### deleloper
 
-Name: Kalle Williams
-Email: sirius.a015@gmail.com
-Skype: live:.cid.c3f59bd24864874d
+- Name: Kalle Williams
+- Email: sirius.a015@gmail.com
+- Skype: live:.cid.c3f59bd24864874d
